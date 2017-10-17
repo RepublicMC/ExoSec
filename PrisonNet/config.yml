@@ -1,0 +1,97 @@
+Plugin:
+ Prefix: '&f[&b&lPrison&3&lNet&f]'
+ 
+ PrimaryColor: '&b'
+ SecondaryColor: '&3'
+ ErrorColor: '&c'
+ 
+ ScoreboardTitle: '&b&lPrison&3&lNet'
+ ScoreboardLink: '&f&owww.prisonnet.org'
+ 
+System:
+ Prestige:
+  Enabled: true
+  Confirmation: true
+  TagFormat: '&f[&7{PRESTIGE}&f]'
+
+Ranks:
+ 1:
+  Prefix: '&f[&a1&f]'
+  Blocksbroken: 200
+  Price: 67500
+ 2:
+  Prefix: '&f[&a2&f]'
+  Blocksbroken: 600
+  Price: 25700
+ 3:
+  Prefix: '&f[&a3&f]'
+  Blocksbroken: 2400
+  Price: 112500
+ 4:
+  Prefix: '&f[&a4&f]'
+  Blocksbroken: 6780
+  Price: 450000
+ 5:
+  Prefix: '&f[&a5&f]'
+  Blocksbroken: 12500
+  Price: 876000
+ 6:
+  Prefix: '&f[&a6&f]'
+  Blocksbroken: 50000
+  Price: 1250000
+ 7:
+  Prefix: '&f[&a7&f]'
+  Blocksbroken: 100000
+  Price: 2750000
+ 8:
+  Prefix: '&f[&a8&f]'
+  Blocksbroken: 200000
+  Price: 6250000
+ 9:
+  Prefix: '&f[&a9&f]'
+  Blocksbroken: 300000
+  Price: 14500000
+ 10:
+  Prefix: '&f[&a10&f]'
+  Blocksbroken: 400000
+  Price: 30000000
+ 11:
+  Prefix: '&f[&a11&f]'
+  Blocksbroken: 700000
+  Price: 75000000
+ 12:
+  Prefix: '&f[&a12&f]'
+  Blocksbroken: 800000
+  Price: 13570000
+ 13:
+  Prefix: '&f[&a13&f]'
+  Blocksbroken: 900000
+  Price: 27000000
+ 14:
+  Prefix: '&f[&a14&f]'
+  Blocksbroken: 1000000
+  Price: 44500000
+ 15:
+  Prefix: '&f[&a15&f]'
+  Blocksbroken: 2300000
+  Price: 75000000
+ 16:
+  Prefix: '&f[&a16&f]'
+  Blocksbroken: 3300000
+  Price: 195400000
+ 17:
+  Prefix: '&f[&a17&f]'
+  Blocksbroken: 3500000
+  Price: 200000000
+ 18:
+  Prefix: '&f[&a18&f]'
+  Blocksbroken: 3700000
+  Price: 353500000
+ 19:
+  Prefix: '&f[&a19&f]'
+  Blocksbroken: 4200000
+  Price: 645000000
+ 20:
+  Prefix: '&f[&a20&f]'
+  Blocksbroken: 7500000
+  Price: 1000000000
